@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Asembris/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Asembris/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Asembris/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,8 +29,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Asembris/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Asembris/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Asembris/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Asembris/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
