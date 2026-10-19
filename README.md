@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/Asembris/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Asembris/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Asembris/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Asembris/leetcode/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Depth-First Search
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Asembris/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Asembris/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Asembris/leetcode/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
