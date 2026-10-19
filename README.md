@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Asembris/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0200-number-of-islands](https://github.com/Asembris/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Asembris/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Asembris/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Asembris/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Asembris/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Heap (Priority Queue)
@@ -101,4 +103,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Asembris/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Asembris/leetcode/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Asembris/leetcode/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Asembris/leetcode/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
