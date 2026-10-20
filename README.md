@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Asembris/leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -75,15 +76,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Asembris/leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
