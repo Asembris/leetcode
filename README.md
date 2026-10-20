@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Asembris/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/Asembris/leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Asembris/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/Asembris/leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
@@ -139,4 +141,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0954-array-of-doubled-pairs](https://github.com/Asembris/leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Asembris/leetcode/tree/main/1090-largest-values-from-labels/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Asembris/leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Asembris/leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Asembris/leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 <!---LeetCode Topics End-->
