@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-array-of-doubled-pairs](https://github.com/Asembris/leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Asembris/leetcode/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Asembris/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Asembris/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Asembris/leetcode/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Asembris/leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Asembris/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -75,17 +77,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Asembris/leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Asembris/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Asembris/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Asembris/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Graph Theory
