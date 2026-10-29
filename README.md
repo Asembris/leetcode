@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Asembris/leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0593-valid-square](https://github.com/Asembris/leetcode/tree/main/0593-valid-square/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Asembris/leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Asembris/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -167,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Asembris/leetcode/tree/main/0279-perfect-squares/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0593-valid-square](https://github.com/Asembris/leetcode/tree/main/0593-valid-square/) | Medium |
 <!---LeetCode Topics End-->
