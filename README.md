@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Asembris/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Asembris/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0279-perfect-squares](https://github.com/Asembris/leetcode/tree/main/0279-perfect-squares/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Asembris/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Asembris/leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Asembris/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -153,4 +155,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/Asembris/leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Asembris/leetcode/tree/main/0279-perfect-squares/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Asembris/leetcode/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Asembris/leetcode/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
