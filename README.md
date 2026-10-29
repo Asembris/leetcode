@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Asembris/leetcode/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Asembris/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Asembris/leetcode/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-array-of-doubled-pairs](https://github.com/Asembris/leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Asembris/leetcode/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Asembris/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Asembris/leetcode/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/Asembris/leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Asembris/leetcode/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/Asembris/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/Asembris/leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Asembris/leetcode/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Asembris/leetcode/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0954-array-of-doubled-pairs](https://github.com/Asembris/leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Asembris/leetcode/tree/main/1090-largest-values-from-labels/) | Medium |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Asembris/leetcode/tree/main/3927-minimize-array-sum-using-divisible-replacements/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
